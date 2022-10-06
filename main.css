@@ -1,3 +1,47 @@
-body {
-  background-color: white;
+h2 {
+  text-align: center;
+}
+
+p.card-text {
+  margin: 0%;
+}
+
+.card-text {
+  text-align: center;
+  margin: 0%;
+}
+
+.card {
+  border-style: solid;
+  border-width: 1px;
+  border-color: lightblue;
+}
+
+.availability {
+  background-color: darkgrey;
+  color: yellow;
+}
+
+.specs {
+  font-weight: bold;
+  font-size: smaller;
+}
+
+.pricing {
+  font-size: smaller;
+  font-weight: bold;
+}
+
+.card-text {
+  line-height: normal;
+}
+
+div.row-1 {
+  display: flex;
+  flex-direction: row;
+}
+
+div.row-2 {
+  display: flex;
+  flex-direction: row;
 }
