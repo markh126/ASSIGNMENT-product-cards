@@ -45,3 +45,10 @@ div.row-2 {
   display: flex;
   flex-direction: row;
 }
+
+img {
+  float: left;
+  width:  30px;
+  height: 300px;
+  object-fit: cover;
+}
